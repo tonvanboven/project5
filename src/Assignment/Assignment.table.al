@@ -36,6 +36,8 @@ table 50100 "RAA Assignment"
             DataClassification = SystemMetadata;
             Caption = 'Status';
         }
+
+
     }
 
     keys
