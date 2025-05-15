@@ -1,0 +1,33 @@
+{
+  "id": "d1f02429-73e4-4ae3-a6d4-835fa81c8875",
+  "name": "ALProject5",
+  "publisher": "Ton van Boven",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "./res/logo.png",
+  "screenshots": [],
+  "dependencies": [],
+  "platform": "1.0.0.0",
+  "application": "26.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "15.0",
+  "features": [
+    "NoImplicitWith",
+    "TranslationFile"
+  ]
+}
